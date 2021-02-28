@@ -9,7 +9,12 @@ body{
 p{
     font-weight: 100;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
 }
 img{
     display: block;
+}
+span{
+    background-color: lightseagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
