@@ -7,7 +7,7 @@ Its a website that expalins more about my favoirite music band
 You need to have git installed
 You can install it with the following command in your terminal
 `$ sudo apt install git-all`
-###Contact
+### Contact
 incase of any problems or regards from my project fell free to contact me via
 Phone number: +254799157137
 Email : machariad196@gmail.com
